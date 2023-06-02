@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../../COURSE_BUILDWITHANGGA/template/template-Impact"
+	},
+	{
+		"path": "C:/laragon/www/Rimba-tiket"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "RIMBA",
+    "liveServer.settings.port": 5501
+  }
+}
